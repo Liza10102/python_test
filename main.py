@@ -5,3 +5,6 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
+
+x = 10
+print(x)
